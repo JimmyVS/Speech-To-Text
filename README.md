@@ -26,6 +26,7 @@ This Python program uses the `speech_recognition` library to perform real-time s
 
 - To exit the program, you can manually terminate it (e.g., by pressing Ctrl+C) or implement a specific exit command within the recognition loop.
 
-## Note: Continuous running of this program may consume significant CPU resources, so use it judiciously. Additionally, internet connectivity is required for using Google's speech recognition service.
+## Note: 
+Continuous running of this program may consume significant CPU resources, so use it judiciously. Additionally, internet connectivity is required for using Google's speech recognition service.
 
 This program can be customized and extended to perform various voice-activated tasks or voice commands for automation or interaction with applications.
